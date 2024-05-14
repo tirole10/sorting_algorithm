@@ -4,14 +4,16 @@ Welcome to the Sorting Visualizer project! This project is a Data Structures and
 Demo
 You can try out the Sorting Visualizer live at https://prachivisualizer.netlify.app/.
 
-Algorithms Implemented
-Bubble Sort: A simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
-Selection Sort: A sorting algorithm that divides the input list into two parts: the sublist of items already sorted and the sublist of items remaining to be sorted.
-Insertion Sort: A sorting algorithm that builds the final sorted array (or list) one item at a time.
-Merge Sort: A divide-and-conquer algorithm that divides the input array into two halves, sorts each half independently, and then merges the two sorted halves.
-Quick Sort: A divide-and-conquer algorithm that selects a 'pivot' element from the array and partitions the other elements into two sub-arrays according to whether they are less than or greater than the pivot.
-Heap Sort: A comparison-based sorting algorithm that uses a binary heap data structure to sort elements.
-Usage
+<p3>Algorithms Implemented</p3>
+
+<P>Bubble Sort: A simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.</P>
+<p>Selection Sort: A sorting algorithm that divides the input list into two parts: the sublist of items already sorted and the sublist of items remaining to be sorted.</p>
+<p>Insertion Sort: A sorting algorithm that builds the final sorted array (or list) one item at a time.
+<p>Merge Sort: A divide-and-conquer algorithm that divides the input array into two halves, sorts each half independently, and then merges the two sorted halves.</p>
+<p>Quick Sort: A divide-and-conquer algorithm that selects a 'pivot' element from the array and partitions the other elements into two sub-arrays according to whether they are less than or greater than the pivot.</p>
+<p>Heap Sort: A comparison-based sorting algorithm that uses a binary heap data structure to sort elements.</p>
+
+<h3>Usage</h3>
 Visit the live demo at https://prachivisualizer.netlify.app/.
 Select an algorithm from the dropdown menu.
 Adjust the speed of visualization using the slider.
